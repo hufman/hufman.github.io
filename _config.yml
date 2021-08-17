@@ -1,0 +1,15 @@
+title: Hufman Projects
+description: A selection of my projects
+github:
+  is_project_page: false
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - README.md
+  - vendor
